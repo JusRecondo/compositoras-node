@@ -4,8 +4,7 @@ const {
 
 function controller(req, res) {
     //codigo
-    console.log(profiles);
-    res.json(profiles)
+    res.json(profiles);
 }
 
 module.exports = controller;
