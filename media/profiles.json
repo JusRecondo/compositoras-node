@@ -1,77 +1,82 @@
 [{
-    "name": "Clara Rockmore",
+    "id": 0,
+    "name": "clara rockmore",
     "years": "1911-1998",
-    "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."  
+    "info": "Clara Rockmore, fue una virtuosa lituana de la música que destacó como intérprete de theremín. También fue una niña prodigio del violín, que ingresó en el Conservatorio de San Petersburgo a la edad de 5 años. Sus estudios musicales previos unidos al oído privilegiado de Clara Rockmore ayudaron a Léon Theremin a desarrollar y perfeccionar su invento. Entre las modificaciones más importantes derivadas de la colaboración de ambos destacan la ampliación del rango de octavas de 3 a 5, algo que ayudó a la joven a interpretar piezas más rápidas y con mayor precisión, y el control más rápido del volumen y el tono. Sin haber recibido ninguna noción de cómo interpretar el theremin, Clara Rockmore logró con sus movimientos precisos y sus cualidades inherentes elaborar su propio método de ejecución." ,
+    "img": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/03/16190455/mag_clararockmoretheremin_900.jpg",
+    "url": "https://www.youtube.com/watch?v=pSzTPGlNa5U" 
 },
 {
-    "name": "Éliane Radigue",
+    "id": 1,
+    "name": "éliane radigue",
     "years": "1932-",
-    "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."  
+    "info": "Éliane Radigue es una compositora francesa de música electrónica, cuyo trabajo, desde principios de la década de 1970, se ha creado casi exclusivamente con un solo sintetizador, el sistema modular ARP 2500. Entre 1957 y 1958 estudió técnicas de música electroacústica en el Studio d’essai en la RTF, bajo la dirección de Pierre Schaeffer y Pierre Henry." ,
+    "img": "https://proyectoidis.org/wp-content/uploads/1957/01/9a-Paris-1971-cr%C3%A9dit-Arman.091efb74-768x557.jpg",
+    "url": "https://www.youtube.com/watch?v=1RrsiGmLp_E" 
 },
-{
-    "name": "Daphne Oram",
+{   
+    "id": 2,
+    "name": "daphne oram",
     "years": "1925-2003",
-    "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
+    "info": "Daphne Oram fue una de las primeras compositoras Británicas en producir un sonido electrónico. Fue la creadora de Oramics (técnica para crear sonidos electrónicos), cofundadora de la BBC Radiophonic Workshop y una figura importante en la evolución de la música electrónica.2​ Aparte de ser una innovadora musical, ella fue la primera mujer en dirigir un estudio de este tipo de música, la primera mujer en arreglar un estudio personal de música electrónica y la primera mujer en diseñar y construir un instrumento de música electrónica.",
+    "img": "https://ichef.bbci.co.uk/news/800/cpsprodpb/8F53/production/_96419663_mediaitem96419662.jpg",
+    "url": "https://www.youtube.com/watch?v=PvU-RaSi418"   
 },
-{
-    "name": "Delia Derbyshire",
+{   
+    "id": 3,
+    "name": "delia derbyshire",
     "years": "1937-2001",
-    "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
+    "info": "Ann Delia Derbyshire fue una compositora de música electroacustica, pionera en el ámbito de la música electrónica, escultora sonora, experimentó con diversos sonidos para el medio radiofónico, televisivo, teatro y cine. Al salir de la universidad Derbyshire solicitó en 1959 un puesto en el sello discográfico Decca Records, donde le respondieron que no contratan mujeres para sus estudios de grabación. Delia Derbyshire se unió al Taller Radiofónico de la BBC entre 1962 y 1963. Sus trabajos más conocidos son: el tema musical realizado para la serie británica de ciencia ficción Doctor Who producida por la BBC de Londres​ en 1963; así como su trabajo con el BBC Radiophonic Workshop." ,
+    "img": "https://dam.muyinteresante.com.mx/wp-content/uploads/2019/03/Delia-Derbyshire.jpg",
+    "url": "https://www.youtube.com/watch?v=jpdiMcEeTJA"   
 },
-{
-    "name": "Laurie Spiegel",
+{   
+    "id": 4,
+    "name": "laurie spiegel",
     "years": "1945-",
-    "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
+    "info": "Laurie Spiegel es una compositora estadounidense, conocida principalmente por sus composiciones de música electrónica y su software de composición algorítmica Music Mouse. Mejor conocida por el uso de su lógica algorítmica e interactiva como parte de su proceso de composición, Spiegel trabajó con Buchla y sintetizadores de Electronic Music Laboratories, subsecuentemente muchos después, generalmente sistemas experimentales a nivel prototipo de generación de música e imagen, que incluyen el sistema GROOVE (1973-1978), Alles Machine(1977), Max Mathew´s RTSked e instalaciones de John R, Pierce (1984, después conocidos como la escala de Bohlen-Pierce) en Bell Labs, el alphaSyntauri para la Apple II (1978-1981) y el Mcleiver (1981-1985).",
+    "img": "https://pbs.twimg.com/media/ESsSEtIVAAE1x7M.jpg",
+    "url": "https://www.youtube.com/watch?v=KD8hkveKmYQ"    
 },
 {
-    "name": "Pauline Oliveros",
+    "id": 5,
+    "name": "pauline oliveros",
     "years": "1932-2006",
-    "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
+    "info": "Pauline Oliveros fue una compositora, acordeonista estadounidense y figura central en el desarrollo de la experimentación y de la música electrónica de posguerra. Fue miembro fundador del San Francisco Tape Music Center en la década de 1960, y se desempeñó como su directora. Enseñó música en Mills College, la Universidad de California, San Diego (UCSD), el Oberlin Conservatory of Music, y el Instituto Politécnico de Rensselaer. Oliveros escribió libros, formuló nuevas teorías musicales e investigó nuevas maneras de enfocar la atención en la música, incluyendo sus conceptos de 'escucha profunda' y 'conciencia sonora'.",
+    "img": "https://www.tabakalera.eus/sites/default/files/styles/width800/public/pauline-oliveros-ft.jpg?itok=kii0o_jc",
+    "url": "https://www.youtube.com/watch?v=DMCTxkFwLHw"
 },
 {
-    "name": "Suzanne Ciani",
+    "id": 6,
+    "name": "suzanne ciani",
     "years": "1946-",
-    "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
+    "info": "Suzanne Ciani es una música, diseñadora de sonido, compositora y ejecutiva de un sello discográfico estadounidense que logró el éxito temprano en la década de 1970 con su música electrónica y efectos de sonido para películas y comerciales de televisión. Su carrera ha incluido trabajos con sonido cuadrafónico. Ha sido nominada a un premio Grammy al Mejor Álbum New Age cinco veces. Su éxito con la música electrónica la ha apodado 'Diva of the Diode' y 'America's first female synth hero'.",  
+    "img": "http://www.paseodegracia.com/wp-content/uploads/2017/09/in-edit-suzanne-ciani-paseo-de-gracia.png",
+    "url": "https://www.youtube.com/watch?v=7vZGeHBfxU0&t=329s"  
 },
 {
-    "name": "Wendy Carlos",
+    "id": 7,
+    "name": "wendy carlos",
     "years": "1939-",
-    "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
+    "info": "Wendy Carlos es una música y compositora estadounidense mejor conocida por su música electrónica y bandas sonoras para películas. Estudió física y música en la Universidad de Brown antes de mudarse a la ciudad de Nueva York en 1962 para estudiar composición musical en la Universidad de Columbia. Al estudiar y trabajar con varios músicos y técnicos electrónicos en el Centro de Música Electrónica de Columbia-Princeton de la ciudad, ayudó en el desarrollo del sintetizador Moog. Saltó a la fama con Switched-On Bach (1968), un álbum de música de Johann Sebastian Bach interpretado en un sintetizador Moog, que ayudó a popularizar su uso en la década de 1970 y ganó tres premios Grammy. Su éxito comercial llevó a varios álbumes más, incluidas adaptaciones de música clásica sintetizada y música experimental y ambiental. Compuso la banda sonora de dos películas de Stanley Kubrick, A Clockwork Orange (1971) y The Shining (1980), y Tron (1982) para Walt Disney Productions.", 
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wendy-carlos-compositora-kubrick-fotogramas-1611766380.jpg",
+    "url": "https://www.youtube.com/watch?v=DbtGtE5DssY"   
 },
 {
-    "name": "Michiko Toyama",
-    "years": "1908-",
-    "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
-},
-{
-    "name": "Jacqueline Nova",
+    "id": 8,
+    "name": "jacqueline nova",
     "years": "1935-1975",
-    "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
+    "info": "Jacqueline del Carmen Nova Sondag fue una compositora y escritora colombiana representante de las vanguardias musicales vigentes en Colombia a partir de los años sesenta. Se gradúa en composición musical en 1967 y se traslada posteriormente a Buenos Aires donde se hace becaria del Centro Latinoamericano de Altos Estudios Musicales (CLAEM) del Instituto Torcuato di Tella para continuar sus estudios superiores en composición. Allí recibió formación de parte de Alberto Ginastera, Luigi Nono, Gerardo Gandini y Kröpfl Francisco, entre otros. Es recurrente la mención de Nova como la figura que dio inicio a la música electroacústica en Colombia.", 
+    "img": "https://www.elmamm.org/Portals/0/exposiciones/2017/Exposiciones%2026%20julio/Jackeline%20Nova/nova.png",
+    "url": "https://www.youtube.com/watch?v=1BOou1hQEmY"   
 },
 {
-    "name": "Hilda Dianda",
+    "id": 9,
+    "name": "hilda dianda",
     "years": "1925-",
-    "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
-},
-{
-    "name": "Alida Vázquez",
-    "years": "1929-2018",
-    "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
-},
-{
-    "name": "Graciela Castillo",
-    "years": "1940",
-    "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
-},
-{
-    "name": "Gillian Gilbert",
-    "years": "1962",
-    "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
-},
-{
-    "name": "Kaija Saariaho",
-    "years": "1952",
-    "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
+    "info": "Hilda Dianda es una compositora de Córdoba, Argentina, pionera de la música electrónica. Estudió en Buenos Aires con Honorio Siccardi y en Europa con Gianfrancesco Malipiero y Hermann Scherchen. En 1958 se trasladó a Francia y se puso en contacto con el 'Grupo de Investigaciones musicales', dirigido por Pierre Schaeffer. Fue invitada por la RAI para trabajar en el Estudio de Fonología, donde realizó diversas experiencias e investigaciones en el campo de la música electrónica. Desde 1960 hasta 1962 participó, como becaria, en los Cursos Internacionales de Nueva Música, en Darmstadt, Alemania.",
+    "img": "https://lastfm.freetls.fastly.net/i/u/ar0/5c0e849742091df270a87203ca5d40d3.jpg",
+    "url": "https://www.youtube.com/watch?v=XObUX_Big0w"    
 }
 ]
 
