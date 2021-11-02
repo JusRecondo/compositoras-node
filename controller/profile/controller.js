@@ -1,13 +1,13 @@
 const setMongoDbClient = require( '../../utils/MongoDB' );
+const { ObjectId } = require( 'mongodb' );
 const client = setMongoDbClient();
 const dbName = "compositoras";
 
 async function controller(req, res) {
 
     try {
-      console.log("ProfileController");
 
-         await client.connect();
+      await client.connect();
          console.log("Connected correctly to server 2");
 
          const db = client.db(dbName);
@@ -15,7 +15,7 @@ async function controller(req, res) {
          // Use the collection "compositoras"
          const collection = db.collection("profiles");
 
-         const query = { name: req.params.name };
+         const query = { "_id": ObjectId(req.params.id) };
 
          // Find all 
          const profile = await collection.findOne( query );

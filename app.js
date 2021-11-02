@@ -4,24 +4,18 @@ app.use( express.static( __dirname + '/public' ) );
 
 const { 
     profilesController,
-    profileController,
-    profileSearchController
+    profileController
 } = require( './controller' );
 
-/* todos los perfiles */
+/* todos los perfiles - búsqueda por nombre*/
 app.get( '/api/compositoras', [ 
     profilesController
 ] );
 
 /* perfil individual */
-app.get( '/api/compositoras/:name', [ 
+app.get( '/api/compositoras/:id', [ 
     profileController
 ] );  
-
-/* buscador por nombre - no funciona, por algun motivo esta ruta usa el profileController */
-app.get( '/api/compositoras/search', [ 
-    profileSearchController
-] );
 
 
 app.listen( process.env.PORT || 8080);

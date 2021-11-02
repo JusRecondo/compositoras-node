@@ -1,22 +1,31 @@
 const setMongoDbClient = require( '../../utils/MongoDB' );
 const client = setMongoDbClient();
-
 const dbName = "compositoras";
 
 async function controller(req, res) {
 
     try {
         
-         await client.connect();
-         console.log("Connected correctly to server");
+        await client.connect();
+        console.log("Connected correctly to server");
 
-         const db = client.db(dbName);
+        const db = client.db(dbName);
 
          // Use the collection "compositoras"
-         const collection = db.collection("profiles");
+        const collection = db.collection("profiles");
 
-         // Find all 
-         const cursor = await collection.find();
+        let cursor; 
+         
+        if( req.query.name ) {
+          const search = req.query.name;
+          console.log(search);
+          const query = { name: new RegExp(search,'i') };
+          // Find search
+          cursor = await collection.find( query );
+        } else {
+          // Find all 
+          cursor = await collection.find();
+        }
 
         if ( (await cursor.count() ) === 0) {
           res.send("No documents found!");
