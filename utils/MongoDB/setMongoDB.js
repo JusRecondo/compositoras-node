@@ -1,10 +1,12 @@
  
 const { MongoClient } = require("mongodb");
+require('dotenv').config();
+
 
 function setMongoDbClient() {
     let mongoDb;
 
-    const url = "mongodb+srv://admin:test@cluster0.dnkkc.mongodb.net/test?retryWrites=true&w=majority&useNewUrlParser=true&useUnifiedTopology=true";
+    const url = process.env.MONGO_URI;
 
     mongoDb = new MongoClient(url);
 
